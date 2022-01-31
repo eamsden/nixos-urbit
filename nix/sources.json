@@ -1,0 +1,14 @@
+{
+    "urbit": {
+        "branch": "urbit-v1.8",
+        "description": "An operating function",
+        "homepage": "https://urbit.org",
+        "owner": "urbit",
+        "repo": "urbit",
+        "rev": "06e5c59635bc9e1d1c2c08ae73203fb12ff28e24",
+        "sha256": "1s5pnjv084igrc1v8nd90p4d00mvpgrkf8rb1ys9n68x6a3j8hcf",
+        "type": "tarball",
+        "url": "https://github.com/urbit/urbit/archive/06e5c59635bc9e1d1c2c08ae73203fb12ff28e24.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
