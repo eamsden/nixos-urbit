@@ -15,6 +15,6 @@ $ niv add nixos-urbit
 ```
 
 Then in the configuration for your package set:
-`{ overlays = [ ... (import sources.nixos-urbit).overlay]; }
+`{ overlays = [ ... (import sources.nixos-urbit).overlay]; }`
 (where ... is your other overlays).
 
